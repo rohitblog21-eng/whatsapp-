@@ -1,0 +1,6 @@
+{
+  "name": "Whisper AI - Secure Chat",
+  "description": "Next-generation AI-powered secure messaging platform with end-to-end encryption, Gemini AI assistant, private & group chats, voice notes, calls, and security dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
